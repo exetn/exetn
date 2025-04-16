@@ -13,7 +13,6 @@
 - 🧠 **Software Engineering**
 - ❤️ Apaixonado por **Web Development**
 
-
 ---
 
 ### 🧠 Tecnologias e conhecimentos
@@ -30,12 +29,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="Discord.js"/>
 </p>
-
----
-
-### ☕ Café + Código sempre!
-
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="150"/>
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
