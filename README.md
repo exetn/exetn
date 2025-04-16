@@ -2,8 +2,8 @@
 <h1 align="center">👋 Olá, mundo!</h1>
 
 <p align="center">
-  <strong>Gabriel Gomes, 17,</strong><br/> 
-  Front-End Developer com experiência em frameworks e familiar com metodologias ágeis.
+  <strong>Gabriel Gomes</strong><br/> 
+  Sou desenvolvedor JavaScript e TypeScript.
 </p>
 
 ---
