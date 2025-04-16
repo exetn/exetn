@@ -1,4 +1,4 @@
-# 👋 About Me:
+# 👋 Sobre mim:
 
 - 👤 **Nome:** Gabriel 
 - 💼 **Trabalhando:** Developer JavaScript & TypeScirpt @ Infinity Tools
@@ -13,7 +13,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Pilha de tecnologia:
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
