@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://SEU-LINK-DE-IMAGEM.png](https://media.discordapp.net/attachments/1257110695837831289/1362012884690800760/computer-illustration.png?ex=6800d8d8&is=67ff8758&hm=b2e8de7edb7af034e69ff389697e944a01826ed02b75ddc2e9777b9795cdd1ff&=&format=webp&quality=lossless)" alt="laptop illustration" width="300"/>
+  <img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)" alt="laptop illustration" width="300"/>
 </p>
 
 # 👋 Sobre mim:
