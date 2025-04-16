@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="laptop illustration" width="300"/>
-</p>
+
 
 # 👋 Sobre mim:
 
@@ -8,6 +6,10 @@
 - 💼 **Trabalhando:** Developer JavaScript & TypeScirpt @ Infinity Tools
 - 🎮 **Interesses:** Programar, Futebol
 - 🚀 Sempre buscando novos desafios e oportunidades para aprender!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="laptop illustration" width="300"/>
+</p>
 
 ---
 
