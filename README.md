@@ -35,7 +35,7 @@
 
 ### ☕ Café + Código sempre!
 
-<img align="right" src="https://user-images.githubusercontent.com/25181517/221354856-e7e3ecb0-5451-4f01-a9f1-6db076b945f5.gif" height="150"/>
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="150"/>
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
